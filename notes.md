@@ -87,3 +87,68 @@ This project is an exercises in team-building and management, as much as it is d
 - Create a Slack channel (or shall we exclusively use Github Issues?)
 - Determine weekly outlook
 - Assign first tasks
+
+--- 
+
+## Labs
+1. Identify problems
+2. Features that may solve our problem (solutions)
+3. System map/diagram
+4. Creating personas, run them through
+5. Data diagram/scheme
+
+### Lab 1
+_From this content platform, I as a Student User should be able to..._
+- Send messages between users
+- Easily upload/download content
+- Large data file support, For example
+  - Upload & share w/ cloud
+  - Download files to local devices
+- Message board w/ archive message
+- Integration of calendar into native apps
+- Multimedia support for messages/content
+  - Images, video, streaming, etc.
+- Differentiaing by user type (some kind of logo, etc)
+- Customization of interface
+- User profile/bio/resume + personalization of users
+- Strong content management ("folder embedding")
+- Event managment (due dates)
+- Alumni support (job postings, sharing experiences with other alumni, providing mentorship to new students)
+  - Student-to-student network
+- Easy to navigate
+- Technical support and/or FAQ
+- Supporting developer syntax in content creation
+  - Easier shortcuts for common developer tasks
+- Mobile friendly
+
+
+Persona
+- Student, age 28, limited web development experience, often uses mobile device for access. Is tech savvy, has latest devices, wants it to be easy to communicate with class and get course information easily.
+
+
+User logs in, then...
+- Sees current course list
+- Upcoming due dates
+
+User login > Dashboard > Pick a course
+- Course overview
+  - Title
+  - Critical links
+  - Instructor
+- Announcements
+- Syllabus
+- Latest class content
+- Grades
+- Assignment
+- Search
+- Navigation/context
+- Who am I?
+
+
+
+      - Topics in depth
+        - Examples we did together
+
+
+- Can you contribute/comment to one topic?
+- Rating understand of topics
