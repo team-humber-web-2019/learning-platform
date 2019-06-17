@@ -51,8 +51,30 @@ This project is an exercises in team-building and management, as much as it is d
 - Gradebook learning curve for weighting is challenging and is not easily customizable
 - Easily building and populating courses
 
+
+
 ### Problems (Student Perspective)
-- ?
+
+**What type of challenges have you encountered while learning to be a web developer at Humber College?**
+
+- Too many online resouces that are not properly vetted
+  - How good are the resources?
+  - Are they good from a student's perspective, or just the instructor?
+- Length of course does not match the content/skillset required
+  - More time on development
+- More development work and combine "design" into one course per term
+  - Project planning course should be more related to web development
+  - Overlapping content, should be one course
+  - Design aspects should be more related to web development
+  - Information architecture not fully covered
+  - Adobe XD vs Photoshop, consistency of tools or more of a linear pathway
+  - Better defining "framework"
+- Better understand of market expectations
+- Crossover between classes needs more work
+- Communication, not using tools provided (Blackboard) and instead using Slack or other to manage
+- Feedback (is it suffucient, can it better)
+- Expectations are not necessarily clear
+- Provide a bundle/script of software or setting
 
 ### Questions/Parameters
 - Should it be specific to web development?
