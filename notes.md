@@ -152,3 +152,12 @@ User login > Dashboard > Pick a course
 
 - Can you contribute/comment to one topic?
 - Rating understand of topics
+
+
+
+
+## Data design
+<https://docs.google.com/spreadsheets/d/1Kvf0DMGxzadUn0ONn5TQeTQoTXmpwkN9zwkKUJf7ePM/edit#gid=1471905059>
+
+## Export Spreadsheet as JSON
+http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html
