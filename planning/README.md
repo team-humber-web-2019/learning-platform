@@ -1,3 +1,3 @@
 # Wireframes
-**Due: Jan 24, before class**
+**Due: Jun 24, before class**
 
